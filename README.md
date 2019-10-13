@@ -16,4 +16,4 @@ For convenience, the shape files from that link have been included in this repos
 
 ## Medium Article
 
-This repository is the full code used in a medium article that I published, that can be found [here]()
+This repository is the full code for a medium article that I wrote. It can be found [here](https://medium.com/@m_vemuri/create-a-geographic-heat-map-of-the-city-of-toronto-in-python-cd2ae0f8be55)
